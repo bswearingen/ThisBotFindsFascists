@@ -1,0 +1,8 @@
+decorator==4.0.11
+praw==4.2.0
+prawcore==0.6.0
+Pygments==2.0.2
+requests==2.12.5
+six==1.10.0
+update-checker==0.16
+cryptography==1.8.1
